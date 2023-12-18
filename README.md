@@ -9,3 +9,4 @@ Apabila ada inputan yang tidak sesuai maka akan menampilkan alert yang mempering
 untuk memasukkan inputan yang benar.
 
 ## CONTOH OUTPUT
+![proglan2](https://github.com/Naufallm/jadwalkuliah/assets/130893000/d46e0447-92fc-4aa5-a860-76c41ede0810)
